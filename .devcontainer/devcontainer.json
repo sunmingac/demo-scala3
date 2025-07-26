@@ -1,0 +1,7 @@
+{
+  "name": "Scala Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/scala-sdkman:2": {}
+  }
+}
